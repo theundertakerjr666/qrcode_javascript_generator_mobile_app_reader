@@ -1,0 +1,16 @@
+{
+  "name": "qrcode_javascript",
+  "version": "1.0.0",
+  "description": "qrcode",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm install",
+    "run": "nodemon index.js localhost 8080",
+    "start": "nodemon index.js localhost 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
