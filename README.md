@@ -1,0 +1,1 @@
+# qrcode_javascript_generator_mobile_app_reader
